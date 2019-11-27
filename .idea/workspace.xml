@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rezume_web" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -45,7 +45,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574703484963</updated>
-      <workItem from="1574703492283" duration="1032000" />
+      <workItem from="1574703492283" duration="1186000" />
+      <workItem from="1574783830673" duration="1969000" />
+      <workItem from="1574860706558" duration="3180000" />
     </task>
     <servers />
   </component>
@@ -57,7 +59,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
